@@ -45,5 +45,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnObject: {fileID: 6247776968698284178, guid: 5e4dcd56171a3cd4d8c068171ed7c59a, type: 3}
-  min: 5
-  max: 10
+  min: 10
+  max: 60
